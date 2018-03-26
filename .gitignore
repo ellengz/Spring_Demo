@@ -50,6 +50,8 @@ hs_err_pid*
 ehthumbs.db
 Thumbs.db
 
+# IntelliJ IDEA #
+######################
 *.idea
 *.settings
 *.iml
