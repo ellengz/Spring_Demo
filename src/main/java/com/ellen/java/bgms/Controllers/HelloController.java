@@ -1,4 +1,4 @@
-package com.ellen.java.spring;
+package com.ellen.java.bgms.Controllers;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;

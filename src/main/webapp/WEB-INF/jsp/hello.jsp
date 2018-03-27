@@ -12,5 +12,17 @@
 </head>
 <body>
     <h2>${message}</h2>
+
+    <h2>Submitted Student Information</h2>
+    <table>
+        <tr>
+            <td>Name</td>
+            <td>${name}</td>
+        </tr>
+        <tr>
+            <td>ID</td>
+            <td>${id}</td>
+        </tr>
+    </table>
 </body>
 </html>
