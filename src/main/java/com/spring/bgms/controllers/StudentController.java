@@ -1,7 +1,8 @@
-package com.ellen.java.bgms.Controllers;
+package com.spring.bgms.controllers;
 
-import com.ellen.java.bgms.Models.*;
+import com.spring.bgms.models.*;
 
+import com.spring.bgms.models.Student;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.RequestMapping;

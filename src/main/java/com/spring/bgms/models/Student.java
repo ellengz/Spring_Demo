@@ -1,4 +1,4 @@
-package com.ellen.java.bgms.Models;
+package com.spring.bgms.models;
 
 public class Student {
 
